@@ -1,1 +1,1 @@
-# Whole-Exome-Sequencing-Pipeline
+# Whole-Exome-Sequence-Data Analysis
